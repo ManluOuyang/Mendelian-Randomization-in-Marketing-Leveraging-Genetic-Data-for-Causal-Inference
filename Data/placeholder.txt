@@ -1,1 +1,25 @@
+# Data Availability
 
+The raw genetic and outcome data used in this study cannot be redistributed due to licensing restrictions.  
+Here we provide references to the original studies and instructions for accessing the corresponding GWAS summary statistics.
+
+---
+
+**Cannabis Use Disorder**:
+Levey, Daniel F., et al. "Multi-ancestry genome-wide association study of cannabis use disorder yields insight into disease biology and public health implications." Nature Genetics 55.12 (2023): 2094-2103.
+
+According to the reporting summary of Levey et al (2023), the GWAS summary statistics generated during and/or analyzed during the current study will be available via dbGAP; the dbGaP accession assigned to the Million Veteran Program is phs001672.v1.p. The website is: https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs001672.v1.p1.
+
+---
+
+**Educational Attainment**: 
+Okbay, Aysu, et al. "Polygenic prediction of educational attainment within and between families from genome-wide association analyses in 3 million individuals." Nature genetics 54.4 (2022): 437-449.
+
+According to the paper, GWAS summary statistics can be downloaded from http://www.thessgac.org/data subject to a terms of use to encourage responsible use of the data. 
+
+---
+
+**Smoking Initiation & Drinks per week**：
+Liu, Mengzhen, et al. "Association studies of up to 1.2 million individuals yield new insights into the genetic etiology of tobacco and alcohol use." Nature genetics 51.2 (2019): 237-244.
+
+According to the paper, GWAS summary statistics can be downloaded online (https://genome.psych.umn.edu/index.php/GSCAN). 
