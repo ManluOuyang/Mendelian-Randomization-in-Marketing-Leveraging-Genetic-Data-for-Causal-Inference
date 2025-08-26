@@ -1,7 +1,6 @@
 # Data Availability
 
-The raw genetic and outcome data used in this study cannot be redistributed due to licensing restrictions.  
-Here we provide references to the original studies and instructions for accessing the corresponding GWAS summary statistics.
+The raw data used in this study cannot be redistributed due to licensing restrictions. Here we provide references to the original studies and instructions for accessing the corresponding GWAS summary statistics.
 
 ---
 
